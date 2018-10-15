@@ -1,0 +1,3 @@
+1. install the dependencies given in requirements.txt
+2. Execute the python file run.py. It will run at localhost:9090
+3. MongoDB is used as the database. Create A dummy database on Mongo and connect it to the code.
