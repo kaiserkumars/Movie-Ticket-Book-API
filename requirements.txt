@@ -13,7 +13,7 @@ cryptography==2.1.1
 dnspython==1.15.0
 Flask==0.12.2
 Flask-Assistant==0.2.96
-Flask-Cors==3.0.3
+Flask-Cors==3.0.9
 Flask-PyMongo==2.1.0
 googlemaps==3.0.2
 idna==2.6
